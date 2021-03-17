@@ -1,0 +1,13 @@
+[package]
+name = "rdza"
+version = "0.0.0"
+authors = ["Robert Balicki <robert.balicki@gmail.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/rbalicki2/rdza"
+documentation = "https://github.com/rbalicki2/rdza"
+repository = "https://github.com/rbalicki2/rdza"
+readme = "README.md"
+description = "Internationalization in Rust"
+
+[dependencies]
